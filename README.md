@@ -9,7 +9,7 @@ Developer who loves creating projects. I try to inform myself as best I can abou
 * 🌍  I'm based in Toulouse
 * 🖥️  See my portfolio at [O-D](http://o-d.me/)
 * ✉️  You can contact me at [contact@o-d.me](mailto:contact@o-d.me)
-* 🚀  I'm currently working on [Finapi](http://github.com/Fyleek/finapi)
+* 🚀  I'm currently working on Project in my Company (not enough time to end Finapi for now)
 * 🧠  I'm learning .NET 7/8 & Vue.ts (🤡)
 * 🤝  I'm open to collaborating on Every Data or Back-end project (maybe IA if I can help a bit 😅)
 * ⚡  I work secretly at night but 🤫,don't tell my girlfriend...
